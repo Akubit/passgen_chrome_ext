@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Password Generator",
+    "description": "A simple password generator",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "assets/img/icon128.png"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "icons": { "16": "assets/img/icon16.png",
+        "48": "assets/img/icon48.png",
+       "128": "assets/img/icon128.png" },
+    "author": "Élise Brodin"
+}
